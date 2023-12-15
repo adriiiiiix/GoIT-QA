@@ -47,7 +47,7 @@ LECȚIA #2. Jira și crearea unui Bug Report
 
 Știi deja că bug-urile înseamnă 🐜 (din engleză. bug – insectă, virus) – erori în cod sau program. Astăzi vom căuta erori, vom completa Bug Report-ul și, de asemenea, vom descoperi în ce direcție merg defectele într-un proiect real!
 
-*Sfat teoretic: În câmpul de adresă web, adăugați orice text în litere mici și fără caractere speciale.
+*Sfat teoretic: În câmpul de adresă web, adăugă orice text în litere mici și fără caractere speciale.
 
 ▶️ https://youtu.be/WYokzzNAaEI - Timp de vizionare: 21 minute
 
@@ -56,7 +56,7 @@ SARCINA PRACTICĂ
 2. Înregistrează-te pe Jira ➡️ https://www.atlassian.com/software/jira
 3. Completează rapoartele de erori pe baza cazurilor de testare.
 
-*Dacă mai puțin de trei din cele cinci cazuri de testare au funcționat pentru dvs. (au fost găsite mai puțin de trei erori), găsiți erori suplimentare pe site și creați-vă propriile rapoarte de erori.
+*Dacă mai puțin de trei din cele cinci cazuri de testare au funcționat pentru tine (au fost găsite mai puțin de trei erori), găsiți erori suplimentare pe site și creați-vă propriile rapoarte de erori.
 
 👀 Formatul de predare a temei: cinci capturi de ecran ale rapoartelor de erori.
 
@@ -87,7 +87,7 @@ SARCINA PRACTICĂ
 
 👀 Formatul de predare a temei: capturi de ecran cu cinci cazuri de testare.
 
-🦊 Mesajul #1: Ciudat... De ce procentajul de răspunsuri la test este mai mare de 100%. Cum este posibil așa ceva? Ești sigur că totul funcționează corect?
+🦊 Mesajul #1: Ciudat...De ce procentajul de răspunsuri la test este mai mare de 100%. Cum este posibil așa ceva? Ești sigur că totul funcționează corect?
 <br>
 🦆 Mesajul #2: Vreau să reiau testul, de ce nu pot să-l finalizez?
 <br>
@@ -95,7 +95,7 @@ SARCINA PRACTICĂ
 <br>
 🐼 Mesajul #4: În timpul testului, am încercat să revin la întrebarea anterioară, dar nu am putut.
 <br>
-🦄 Mesajul #5: Am terminat testul, dar am fâcut câteva greșeli. De ce nu pot trece din nou??? Ești sigur ca totul funcționează?
+🦄 Mesajul #5: Am terminat testul, dar am făcut câteva greșeli. De ce nu pot trece din nou??? Ești sigur că totul funcționează?
 
 <b><i>REZOLVARE:</i></b>
 <br><br>
